@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-💡 Software Development Engineer in Test with **4+ years of experience** building scalable automation frameworks for **enterprise financial systems** and distributed platforms.
+💡 Software Development Engineer in Test with **3+ years of experience** building scalable automation frameworks for **enterprise financial systems** and distributed platforms.
 
 ⚡ Specialized in:
 - API automation & backend validation
