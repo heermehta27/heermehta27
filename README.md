@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=600&lines=4%2B+Years+SDET+Experience;API+%26+Backend+Automation+Expert;Kubernetes+%7C+CI%2FCD+%7C+Cloud;Building+AI-Powered+QA+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=600&lines=3%2B+Years+SDET+Experience;API+%26+Backend+Automation+Expert;Kubernetes+%7C+CI%2FCD+%7C+Cloud;Building+AI-Powered+QA+Systems" />
 </p>
 
 ---
